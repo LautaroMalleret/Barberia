@@ -1,12 +1,67 @@
-# React + Vite
+# 💈 Barbería - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page profesional para una barbería/peluquería masculina, desarrollada con React + Vite + Tailwind CSS. El sitio está diseñado para adaptarse perfectamente a dispositivos móviles, y busca destacar los servicios, promociones y formas de contacto de manera clara y moderna.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Objetivo
 
-## Expanding the ESLint configuration
+Ofrecer una landing moderna para negocios locales como barberías, que permita:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Mostrar servicios y cortes con estilo visual atractivo
+- Incluir contacto directo por WhatsApp
+- Usar animaciones suaves y responsive design
+- Ubicación con mapa embebido
+- Giftcards y formulario de contacto simulado
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Framework**: React + Vite  
+- **Estilos**: Tailwind CSS  
+- **Animaciones**: AOS (Animate on Scroll)  
+- **Iconos**: Lucide + Otros SVG  
+- **Deploy sugerido**: Vercel / Netlify (hosting gratuito)
+
+---
+
+## 📸 Secciones del sitio
+
+- 🔝 Topbar fija con logo y contacto  
+- 🖼️ Banner principal llamativo  
+- ✂️ Carrusel de cortes reales  
+- 🕒 Horarios de atención  
+- 🗺️ Mapa de ubicación (Google Maps embebido)  
+- 🎁 Sección de Giftcards  
+- 📞 Formulario de contacto simulado  
+- 📱 Botón flotante de WhatsApp
+
+---
+
+## 🚀 Ejecutar el proyecto localmente
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/LautaroMalleret/Barberia.git
+cd Barberia
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
+npm run dev
+
+```
+## 🌐 Demo en línea
+https://barbershop-sm.netlify.app/
+
+## 📩 Contacto
+Si querés contratar o consultar sobre este proyecto:
+
+GitHub: @LautaroMalleret
+
+Email: lautaro.malleret@gmail.com
+
+LinkedIn: linkedin.com/in/lautaro-malleret
+
