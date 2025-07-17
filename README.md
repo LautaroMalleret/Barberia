@@ -61,7 +61,6 @@ Si querés contratar o consultar sobre este proyecto:
 
 GitHub: @LautaroMalleret
 
-Email: lautaro.malleret@gmail.com
+Email: lautaromalleret@gmail.com
 
-LinkedIn: linkedin.com/in/lautaro-malleret
-
+LinkedIn: https://www.linkedin.com/in/lautaromalleret/
